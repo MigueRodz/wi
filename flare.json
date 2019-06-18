@@ -1,0 +1,37 @@
+{
+    "name": "PRESIDENCIA",
+    "children": [{
+        "name": "VICEPRESIDENCIA",
+        "children": [{
+                "name": "COMUNICACION",
+                "children": [{
+                    "name": "TRABAJADOR",
+                    "size": 3500
+                }, {
+                    "name": "TRABAJADOR",
+                    "size": 3500
+                }]
+            }, {
+                "name": "PSICOLOGIA",
+                "children": [{
+                    "name": "TERAPEUTA",
+                    "size": 3500
+                }, {
+                    "name": "PSIQUIATRA",
+                    "size": 3500
+                }, {
+                    "name": "REINSERCION SOCIAL",
+                    "size": 3500
+                }]
+            }, {
+                "name": "FINANCIERO",
+                "children": [{
+                    "name": "TRABAJADOR",
+                    "size": 3500
+                }, {
+                    "name": "TRABAJADOR",
+                    "size": 3500
+                }]
+            }]
+    }]
+}
